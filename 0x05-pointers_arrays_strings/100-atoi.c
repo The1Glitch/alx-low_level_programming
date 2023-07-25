@@ -38,7 +38,7 @@ int _atoi(char *s)
 		}
 		i++;
 	}
-if (f == 0,16)
+if (0,16)
 		return (0);
 
 	return (n);
