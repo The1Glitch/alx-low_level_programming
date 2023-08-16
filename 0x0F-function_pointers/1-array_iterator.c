@@ -1,10 +1,10 @@
 #include "function_pointers.h"
 #include <stdio.h>
 /**
- * arrays_iterator - print each array element on a newl
- * @array:array
- * @size: how many elements to print
- * @action: pointer to print in regular or hex
+ * array_iterator - Print each array element on a newl
+ * @array: Array
+ * @size: How many elements to print
+ * @action: Pointers to print in regular or hexde
  * Return: void
  */
 void array_iterator(int *array, size_t size, void (*action)(int))
