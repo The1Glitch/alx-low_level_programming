@@ -32,7 +32,7 @@ int f4(char *usrn, int len)
 }
 
 /**
- * f5 - Multiplies each character's ASCII 
+ * f5 - Multiplies each character's ASCII
  * value in the username
  *
  * @usrn: Username
